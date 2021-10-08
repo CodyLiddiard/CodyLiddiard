@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CodyLiddiard
+- 🌱 I’m currently learning how to create a 3D Video Game.
